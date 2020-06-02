@@ -1,0 +1,79 @@
+.navbar {
+	background-color: #D32F2F !important;
+}
+
+
+.nav-link{
+	color: #fff !important;
+}
+.fa-shopping-cart{
+	font-size: 20px !important;
+}
+.fa-user-circle{
+	font-size: 20px !important;
+}
+.fa-shopping-bag,.fa-users,.fa-male{
+	font-size: 50px !important;
+	margin-right: 10px !important;
+	color: #D32F2F !important;
+}
+.card1, .card2,.card3{
+	display: flex;
+	width: 300px;
+	height: 100px;
+	background-color: #fff !important;
+	box-shadow:2px 4px 5px grey;
+	justify-content: center;
+	align-items: center;
+	margin-top: 10px;
+
+}
+.maincard{
+	margin-top: 30px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+h3{
+color: #D32F2F !important;
+}
+.eidCollection{
+	margin-top: 50px;
+}
+.card{
+	width: 220px;
+	height: auto !important;
+	margin-bottom: 5px;
+}
+.card-text{
+	font-weight: bold;
+}
+.btn-primary{
+	width: 100%;
+	background-color: #D32F2F !important;
+}
+.card-title, .card-text{
+	color: #D32F2F !important;
+}
+.heading{
+	text-align: center;
+	font-weight: bold;
+	color: #D32F2F !important;
+	margin: 20px;
+}
+.heading > h1{
+	text-shadow: 2px 2px 4px black;
+}
+.footer{
+	background-color: #D32F2F !important;
+    width: 100%;
+    height: 50px;
+}
+h4{
+	text-align: center;
+	color: #fff;
+}
+.nav-link:hover { 
+	border-bottom: 3px solid #fff !important;
+}
